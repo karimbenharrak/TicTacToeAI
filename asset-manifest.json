@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TicTacToeAI/static/css/main.f782d95f.chunk.css",
+    "main.js": "/TicTacToeAI/static/js/main.6dd6f7f7.chunk.js",
+    "main.js.map": "/TicTacToeAI/static/js/main.6dd6f7f7.chunk.js.map",
+    "runtime-main.js": "/TicTacToeAI/static/js/runtime-main.c3813b22.js",
+    "runtime-main.js.map": "/TicTacToeAI/static/js/runtime-main.c3813b22.js.map",
+    "static/js/2.9999ca9d.chunk.js": "/TicTacToeAI/static/js/2.9999ca9d.chunk.js",
+    "static/js/2.9999ca9d.chunk.js.map": "/TicTacToeAI/static/js/2.9999ca9d.chunk.js.map",
+    "index.html": "/TicTacToeAI/index.html",
+    "precache-manifest.d96d6d2a3bf52405a0e6d6ca52100c6a.js": "/TicTacToeAI/precache-manifest.d96d6d2a3bf52405a0e6d6ca52100c6a.js",
+    "service-worker.js": "/TicTacToeAI/service-worker.js",
+    "static/css/main.f782d95f.chunk.css.map": "/TicTacToeAI/static/css/main.f782d95f.chunk.css.map",
+    "static/js/2.9999ca9d.chunk.js.LICENSE.txt": "/TicTacToeAI/static/js/2.9999ca9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3813b22.js",
+    "static/js/2.9999ca9d.chunk.js",
+    "static/css/main.f782d95f.chunk.css",
+    "static/js/main.6dd6f7f7.chunk.js"
+  ]
+}
